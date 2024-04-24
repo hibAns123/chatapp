@@ -1,5 +1,5 @@
 
-import 'font-awesome/css/font-awesome.css'
+
 import {io} from 'socket.io-client'
 import './App.css'
 import React from 'react'
